@@ -1,3 +1,5 @@
-Dang Cong Tien - Group 11
-This is second line
-Class: HN26_CPL_FU .FE_05
+<<<<<<< HEAD
+Ban main
+=======
+Ban conflict
+>>>>>>> conflict
