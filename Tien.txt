@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ban main
+=======
+Ban conflict
+>>>>>>> conflict
